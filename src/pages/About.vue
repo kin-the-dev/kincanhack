@@ -1,6 +1,6 @@
 <template>
   <Layout>
-    <h1>Contact</h1>
+    <h1>Projects</h1>
     <b>Email:</b>
     <a>kin@kinhacks.design</a>
     
